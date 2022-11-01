@@ -1,0 +1,19 @@
+{
+  "name": "sesi7",
+  "version": "1.0.0",
+  "description": "cuyuniversuty sesi 7",
+  "main": "index.js",
+  "scripts": {
+    "nyala": "nodemon index.js"
+  },
+  "keywords": [
+    "cuy",
+    "universe"
+  ],
+  "author": "ibnu",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "rupiah-format": "^1.0.0"
+  }
+}
